@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle -->
+  <circle cx="64" cy="64" r="60" fill="#2563EB" />
+  
+  <!-- Analytics Lines -->
+  <path d="M32 80L48 64L64 88L80 48L96 32" stroke="white" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Data Points -->
+  <circle cx="32" cy="80" r="4" fill="white"/>
+  <circle cx="48" cy="64" r="4" fill="white"/>
+  <circle cx="64" cy="88" r="4" fill="white"/>
+  <circle cx="80" cy="48" r="4" fill="white"/>
+  <circle cx="96" cy="32" r="4" fill="white"/>
+</svg>
